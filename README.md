@@ -13,3 +13,5 @@ entorno virtual: (en carpeta de proyecto)
           - source ./venv/Scripts/activate
         - otro:
           - source ./venv/bin/activate
+   - instalar:
+      - pip install -r requirements.txt
