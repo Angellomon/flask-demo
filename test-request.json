@@ -1,0 +1,16 @@
+{
+  "constraints": [
+    {
+      "values": [1, 2, 4],
+      "eq": "mayorque"
+    },
+    {
+      "values": [3, 4, 5],
+      "eq": "igual"
+    }
+  ],
+  "objetivo": {
+    "values": [1, 3]
+  },
+  "max": true
+}
